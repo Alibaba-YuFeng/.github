@@ -18,7 +18,8 @@
 - **SimplePoster**  
   A minimalist inpainting framework for poster generation that enables **faithful subject preservation** and **position-controllable text rendering** without extra control modules.  
   In Taobao product poster generation, SimplePoster introduces **spatial understanding into generative training** to address text learning difficulties, while removing redundant modular designs to improve controllability. It achieves **98.7% strict subject preservation**, outperforming SeedEdit3.0 (55.2%) and PosterMaker (85.3%).
-
+  *ArXiv and code coming soon.*
+  
 - **[TC-Padé: Trajectory-Consistent Padé Approximation for Diffusion Acceleration](https://arxiv.org/pdf/2603.02943)**  
   A diffusion acceleration framework designed for practical **low-step sampling**.  
   TC-Padé uses **trajectory-consistent rational approximation** to model feature evolution more accurately than Taylor-based extrapolation, achieving strong speed-quality trade-offs across image and video generation models.  
