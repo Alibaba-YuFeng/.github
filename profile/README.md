@@ -31,5 +31,5 @@
   Through CNN probes, it provides a model-agnostic way to estimate image outcomes early, with applications in **prompt optimization**, **seed selection**, and **accelerated RL training**.  
   [[Code]](https://github.com/Alibaba-YuFeng/DiffusionProbe)
 
-More updates and open-source projects from **YuFeng** are coming soon.
+More updates and open-source projects from **VELLDEPTH** are coming soon.
 
