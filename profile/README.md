@@ -13,7 +13,7 @@
 
 ## News
 
-🎉 **Three papers from the YuFeng team have been accepted to CVPR 2026 (Main Conference)!**
+🎉 **Three papers from the VELLDEPTH team have been accepted to CVPR 2026 (Main Conference)!**
 
 - **SimplePoster**  
   A minimalist inpainting framework for poster generation that enables **faithful subject preservation** and **position-controllable text rendering** without extra control modules.  
