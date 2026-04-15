@@ -13,7 +13,7 @@
 
 ## News
 
-🎉 **Three papers from our team have been accepted to ACL 2026 (Main Conference)!**
+🎉 **Three papers have been accepted to ACL 2026 (Main Conference)!**
 
 ---
 
