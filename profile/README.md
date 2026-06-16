@@ -7,7 +7,6 @@ Our repositories have been migrated to the new organization: **[Alibaba-VELLDEPT
 Please visit the new location for the latest code and updates. The following repository remains at its original location while under review:
 
 - [MMA-SafetyBench](https://github.com/Alibaba-YuFeng/MMA-SafetyBench) *(under review, migration pending)*
-- 
 ## News
 
 🎉 **Three papers have been accepted to ACL 2026 (Main Conference)!**
